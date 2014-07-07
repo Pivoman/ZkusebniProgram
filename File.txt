@@ -1,0 +1,19 @@
+Datum | Objem | Typ | KS | VS | SS | Uživatelská identifikace | Zpráva pro příjemce | 
+17.06.2014 | 300,00 | Bezhotovostní příjem |   |   |   | IVANOVA JANA | Zlate clenstvi | 
+16.06.2014 | 100,00 | Bezhotovostní příjem |   | 120600 |   | Novotná Marie |   | 
+16.06.2014 | 100,00 | Bezhotovostní příjem |   | 120102 |   | Pergler Ivan,RNDr. |   | 
+16.06.2014 | 200,00 | Bezhotovostní příjem |   |   |   | TESAŘ TOMÁŠ | 310 partnerů | 
+13.06.2014 | 100,00 | Bezhotovostní příjem |   | 6352252115 |   | BEŠIREVIČ GORAN | pomoc Ačku | 
+11.06.2014 | 1 000,00 | Bezhotovostní příjem | 0000 | 7511041582 |   | Martin Literák | Martin Literák | 
+10.06.2014 | 100,00 | Bezhotovostní příjem | 0308 | 121301 |   | Radek Malenovský |   | 
+04.06.2014 | 100,00 | Bezhotovostní příjem | 0000 | 602475232 | 0 | NEMETHOVÁ MARKÉTA |   | 
+02.06.2014 | 100,00 | Bezhotovostní příjem |   |   |   | Homolková Hana,PhDr. | Hana Homolková | 
+01.06.2014 | -1 730,00 | Bezhotovostní platba |   | 11466301 |   | PRE |   | 
+01.06.2014 | -1 307,30 | Bezhotovostní platba | 0308 | 0599696820 |   | O2 |   | 
+30.05.2014 | 1 200,00 | Bezhotovostní příjem |   |   |   | NECHVÍLOVÁ STANISLAV | BRONZOVÉ ČLENSTVÍ | 
+26.05.2014 | 150,00 | Bezhotovostní příjem | 0000 | 0 | 0 | SCHMIDTOVÁ MONIKA |   | 
+22.05.2014 | 100,00 | Bezhotovostní příjem |   | 120104 |   | HANA PERGLEROVA | - | 
+21.05.2014 | 100,00 | Bezhotovostní příjem |   |   |   | BILLOVA LENKA | prispevek na najem | 
+20.05.2014 | 100,00 | Bezhotovostní příjem |   |   |   | Bučková Florianová . |   | 
+19.05.2014 | 300,00 | Bezhotovostní příjem |   |   |   | IVANOVA JANA | Zlate clenstvi | 
+
